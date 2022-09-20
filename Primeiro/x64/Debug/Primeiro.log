@@ -1,0 +1,2 @@
+﻿  Primeiro.cpp
+C:\Users\UTFPR\Desktop\Projetos\c++\Primeiro\Primeiro.cpp(13): error C4700: variável local não inicializada 'test' usada
